@@ -6,11 +6,6 @@ This repository showcases my machine learning abilities and progress throughout 
 
 ## Table of contents
 - [What’s inside](#whats-inside)
-- [Repo structure](#repo-structure)
-- [Getting started](#getting-started)
-- [How to run](#how-to-run)
-- [Notes](#notes)
-- [License](#license)
 
 ---
 
